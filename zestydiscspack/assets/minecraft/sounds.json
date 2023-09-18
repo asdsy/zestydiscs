@@ -1,0 +1,18 @@
+{
+    "music_disc.zestywizardenemy": {
+        "sounds": [
+            {
+                "name": "records/zestywizardenemy",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.zestywizardflea": {
+        "sounds": [
+            {
+                "name": "records/zestywizardflea",
+                "stream": true
+            }
+        ]
+    }
+}
